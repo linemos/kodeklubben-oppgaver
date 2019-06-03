@@ -1,0 +1,2 @@
+veiledning_kurs_avansert_plattform/kurs_avansert_scratch_plattform.md
+donkey_kong/donkey_kong.md
